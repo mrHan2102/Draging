@@ -46,7 +46,8 @@
 
 .answer-item {
   width: fit-content;
-  padding: 5px 10px;
+  line-height: 100%;
+  padding:6px 10px;
   border: 1px solid grey;
   border-radius: 5px;
   cursor: pointer;
